@@ -5,21 +5,21 @@
 [![Package Control][ico-package-control]][link-package-control]
 
 ### 安装
-**使用Package Control的方式** :
+**Package Control** :
 安装 **Laravel 5 Snippets** 最简单的方式就是使用Sublime的 Package Control,  [http://wbond.net/sublime_packages/package_control](http://wbond.net/sublime_packages/package_control).
 
 ```
 首选项 -> Package Control -> 输入'Install Package' 回车, 查找 "Laravel 5 Snippets"
 ```
 
-**用Git的方式** :
+**Git** :
 Clone the repository in your Sublime Text "Packages"目录:
 
 ```
 git clone https://github.com/Lykegenes/laravel-5-snippets.git "Laravel 5 Snippets"
 ```
 
-**其他的方式** :
+**其他** :
 从github上下载最新版本的源码并把"Laravel 5 Sippets"文件夹整个复制到X:\sublime text\Data\Packages下.
 
 ## Usage
