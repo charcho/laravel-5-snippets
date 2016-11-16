@@ -4,5 +4,5 @@ Auth::attempt(['email' => ${1:\$email}, 'password' => ${2:\$password}])
 ]]></content>
     <tabTrigger>Auth::attempt</tabTrigger>
     <scope>source.php</scope>
-    <description>Initiate an Authentication attempt</description>
+    <description>身份验证匹配</description>
 </snippet>
