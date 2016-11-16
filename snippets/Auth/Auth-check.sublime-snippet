@@ -4,5 +4,5 @@ Auth::check()
 ]]></content>
 	<tabTrigger>Auth::check</tabTrigger>
 	<scope>source.php</scope>
-    <description>判断当前用户是否已身份验证</description>
+    <description>确定当前用户是否已身份验证</description>
 </snippet>
