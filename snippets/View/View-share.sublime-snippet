@@ -4,5 +4,5 @@ view()->share('${1:key}', ${2:\$value});
 ]]></content>
     <tabTrigger>View::share</tabTrigger>
     <scope>source.php</scope>
-    <description>Share Data across all Views</description>
+    <description>在所有View之间分享数据</description>
 </snippet>
