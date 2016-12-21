@@ -4,5 +4,5 @@ Storage::allFiles(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::allFiles</tabTrigger>
 	<scope>source.php</scope>
-	<description>返回一个数组，包含所有文件的目录和子目录 - Returns an array of all of the files in a directory and it's sub-directories</description>
+	<description>返回所有文件的目录和子目录（数组） - Returns an array of all of the files in a directory and it's sub-directories</description>
 </snippet>

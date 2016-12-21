@@ -4,5 +4,5 @@ Storage::put(${1:filePath}, ${2:\$contents});
 ]]></content>
 	<tabTrigger>Storage::put</tabTrigger>
 	<scope>source.php</scope>
-	<description>Store a file on disk</description>
+	<description>存储一个文件到磁盘上 - Store a file on disk</description>
 </snippet>

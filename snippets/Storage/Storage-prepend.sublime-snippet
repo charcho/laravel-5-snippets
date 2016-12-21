@@ -4,5 +4,5 @@ Storage::prepend(${1:filePath}, ${2:Prepended Text});
 ]]></content>
 	<tabTrigger>Storage::prepend</tabTrigger>
 	<scope>source.php</scope>
-	<description>Insert content at the beginning of a file</description>
+	<description>在文件开头处插入新内容 - Insert content at the beginning of a file</description>
 </snippet>

@@ -4,5 +4,5 @@ Storage::files(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::files</tabTrigger>
 	<scope>source.php</scope>
-	<description>Returns an array of all of the files in a directory</description>
+	<description>返回目录下的所有文件（数组） - Returns an array of all of the files in a directory</description>
 </snippet>
