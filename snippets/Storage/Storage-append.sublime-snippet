@@ -4,5 +4,5 @@ Storage::append(${1:filePath}, ${2:Appended Text});
 ]]></content>
 	<tabTrigger>Storage::append</tabTrigger>
 	<scope>source.php</scope>
-	<description>Insert content at the end of a file</description>
+	<description>在文件末尾处插入新内容 - Insert content at the end of a file</description>
 </snippet>

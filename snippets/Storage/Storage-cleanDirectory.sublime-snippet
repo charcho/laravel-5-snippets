@@ -4,5 +4,5 @@ Storage::cleanDirectory(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::cleanDirectory</tabTrigger>
 	<scope>source.php</scope>
-	<description>Empty the specified directory of all files and folders.</description>
+	<description>清除指定目录的所有文件夹和文件 - Empty the specified directory of all files and folders.</description>
 </snippet>

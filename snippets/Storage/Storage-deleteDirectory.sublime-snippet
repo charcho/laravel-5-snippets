@@ -4,5 +4,5 @@ Storage::deleteDirectory(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::deleteDirectory</tabTrigger>
 	<scope>source.php</scope>
-	<description>May be used to remove a directory, including all of its files, from the disk</description>
+	<description>可用于删除磁盘上的一个目录,包括目录下的所有文件 - May be used to remove a directory, including all of its files, from the disk</description>
 </snippet>

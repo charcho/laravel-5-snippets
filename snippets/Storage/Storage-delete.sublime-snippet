@@ -4,5 +4,5 @@ Storage::delete(${1:['file', 'otherFile']});
 ]]></content>
 	<tabTrigger>Storage::delete</tabTrigger>
 	<scope>source.php</scope>
-	<description>Remove one or multiple files from the disk</description>
+	<description>删除磁盘上的一个或多个文件 - Remove one or multiple files from the disk</description>
 </snippet>
